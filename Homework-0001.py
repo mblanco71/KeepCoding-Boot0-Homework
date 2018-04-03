@@ -245,3 +245,7 @@ def bird3():
 
 
 bird3()
+
+tu.penup()
+tu.goto(55, 0)
+tu.pendown()
